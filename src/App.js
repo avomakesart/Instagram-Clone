@@ -1,9 +1,9 @@
 // App.js
-import React, { Fragment } from 'react';
-import styled from 'styled-components';
-import Header from './components/Header.js';
-import Profile from './components/Profile.js';
-import GlobalStyle from './globalStyle';
+import React, { Fragment } from "react";
+import styled from "styled-components";
+import Header from "./components/Header/Header";
+import Profile from "./components/Profile/Profile";
+import GlobalStyle from "./globalStyle";
 const AppWrapper = styled.div`
   background-color: #fafafa;
 `;
