@@ -1,8 +1,15 @@
 {
   "name": "stylagram",
+  "author": {
+    "name": "Alvaro Castillo Correa",
+    "email": "alvaro_castillo@bluecatencode.com",
+    "url": "https://bluecatencode.com"
+  },
+  "homepage": "https://avomakesart.github.io/stylagram/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-icons": "^3.10.0",
